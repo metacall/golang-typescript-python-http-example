@@ -4,3 +4,5 @@
 !go.sum
 !script.py
 !script.ts
+!package.json
+!package-lock.json

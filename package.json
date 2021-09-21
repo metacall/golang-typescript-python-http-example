@@ -1,0 +1,22 @@
+{
+  "name": "metacall-golang-typescript-python-http-example",
+  "version": "1.0.0",
+  "description": "This example shows how to embed TypeScript and Python into Go using MetaCall inside an HTTP server written in Go. In other words, calling TypeScript/Python functions from Go by using GET or POST. The instructions are focused on Linux but it can be ported to other platforms easily.",
+  "main": "script.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metacall/golang-typescript-python-http-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metacall/golang-typescript-python-http-example/issues"
+  },
+  "homepage": "https://github.com/metacall/golang-typescript-python-http-example#readme",
+  "dependencies": {
+    "casper-js-sdk": "^1.4.3"
+  }
+}
